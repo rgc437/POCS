@@ -1,0 +1,12 @@
+{
+  "name": "sample-node-app",
+  "version": "1.0.0",
+  "description": "A minimal sample Node.js HTTP server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
